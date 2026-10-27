@@ -5,7 +5,8 @@ WinX64 Security Research
 项目简介
 
 本项目专注于 Win x64 平台安全研究，主要围绕 C++、C# 两种编程语言，探讨 Win 底层机制、PE 文件分析、AV/EDR 检测与免杀技术研究。
-重点是本人愿意有偿请教专业知识
+
+重点是本人愿意给付出专业知识和建议的大佬们相应的酬谢
 
 研究方向
 
@@ -36,7 +37,7 @@ English Introduction
 About
 
 This project focuses on Windows x64 security research, covering C++, C#, Windows internals, PE analysis, AV/EDR detection, and security evasion research.
-
+I welcome guidance from experienced professionals and am happy to offer something in return for their time and expertise.
 Research Topics
 
 Windows x64 Internals — Processes, threads, memory management, and Windows APIs.
